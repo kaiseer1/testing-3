@@ -1,0 +1,16 @@
+Add PROGRESS.md
+
+Where the project actually stands, as distinct from what it is designed
+to do and how to run it. The rule it keeps: a thing counts as working
+only if it has been watched working in a live game, and everything that
+has not been is listed as such - which currently means two of the five
+toolkit actions, all three narrative events, and the startup event.
+
+Records the current blocker plainly. On a mid-campaign save the baseline
+is captured from the first snapshot the Director ever sees, so "since the
+campaign began" means "since twenty minutes ago" and the rank gate
+refuses everything. Twenty minutes of play at 1217 produced proposals on
+every audit and not one survived. The gate is behaving as designed; the
+design assumed a campaign started under the Director's eye.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
